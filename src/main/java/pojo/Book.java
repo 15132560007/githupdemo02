@@ -9,6 +9,6 @@ public class Book {
     private String name;//02
     private int age;//on hotfix
     private Date birthday;
-
+    private String cardId;//on featurefaceid
 
 }
